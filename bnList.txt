@@ -1,0 +1,10 @@
+bn1 MDN5_Endometrosis_3.bn
+bn2 MDN4_LungDiseaseSmall_4.bn
+bn3 MDN2_Cancer_5.bn
+bn4 MDN6_HeartAttack_6.bn
+bn5 MDN3_ColdLungDisease_7.bn
+bn6 MDN1_LungCancer_8.bn
+bn7 MDN7_EarlyDaignosisEndo_9.bn
+bn8 MDN8_MedicalProblems_10.bn
+bn9 MDN9_Hepatitis_11.bn
+bn10 MDN10_Diabetes_12.bn
